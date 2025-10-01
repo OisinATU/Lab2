@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b52169-69ae-4f24-869e-baa1364ef108" name="Changes" comment="">
+    <list default="true" id="c4b52169-69ae-4f24-869e-baa1364ef108" name="Changes" comment="Created Looped Calc App with &quot;add&quot; feature">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/CalcApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/CalcApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +14,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "OisinATU"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/OisinATU/Lab2.git",
+    "accountId": "e7700631-51b6-4bad-b3ff-c8db323e43af"
+  }
+}]]></component>
   <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
   <component name="KubernetesApiProvider"><![CDATA[{
   "isMigrated": true
@@ -34,7 +50,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "subtract",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -61,8 +77,17 @@
       <option name="presentableId" value="Default" />
       <updated>1759136701565</updated>
       <workItem from="1759136703123" duration="5000" />
-      <workItem from="1759258724957" duration="4721000" />
+      <workItem from="1759258724957" duration="5355000" />
     </task>
+    <task id="LOCAL-00001" summary="Created Looped Calc App with &quot;add&quot; feature">
+      <option name="closed" value="true" />
+      <created>1759336818347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759336818347</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +103,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Looped Calc App with &quot;add&quot; feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Looped Calc App with &quot;add&quot; feature" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
