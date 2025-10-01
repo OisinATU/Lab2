@@ -9,4 +9,8 @@ public class Calculator {
     public double subtract_numbers(double first, double second){
         return first-second;
     }
+
+    public double multiply_numbers(double first, double second){
+        return first*second;
+    }
 }
