@@ -2,9 +2,7 @@ package ie.atu;
 
 public class Calculator {
 
-    public int add_numbers(int first, int second){
-
-        int total = first+second;
-        return total;
+    public double add_numbers(double first, double second){
+        return first+second;
     }
 }
