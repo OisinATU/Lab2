@@ -13,4 +13,8 @@ public class Calculator {
     public double multiply_numbers(double first, double second){
         return first*second;
     }
+
+    public double divide_numbers(double first, double second){
+        return first/second;
+    }
 }
