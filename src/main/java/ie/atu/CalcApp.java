@@ -7,9 +7,9 @@ public class CalcApp {
         //Setup scanner
         Scanner scan1 = new Scanner(System.in);
 
-        int valid = 0;
+        boolean valid = true;
 
-        while(valid==0) {
+        while(valid) {
 
             // input for first number
             System.out.print("Enter first number: ");
@@ -32,7 +32,8 @@ public class CalcApp {
             // Create instance of calculator
             Calculator myCalc = new Calculator();
 
-            double return_value=0;
+            // initialise value returning from calculator class
+            double return_value;
 
             switch(operation) {
                 case "add":
@@ -56,11 +57,15 @@ public class CalcApp {
             }
 
 
+            System.out.println("Would you like to continue? y/n");
+            String answer = scan1.nextLine();
+
+            valid = answer.equalsIgnoreCase("y");
+
+
         }
 
-        //get first value
-
-        //get second value
+        System.out.println("Thank you for using our program.");
 
 
 

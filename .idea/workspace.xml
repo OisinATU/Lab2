@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b52169-69ae-4f24-869e-baa1364ef108" name="Changes" comment="Created Looped Calc App with &quot;add&quot; feature">
+    <list default="true" id="c4b52169-69ae-4f24-869e-baa1364ef108" name="Changes" comment="Created exit for loop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/CalcApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/CalcApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="divide" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,10 +47,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalcApp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "subtract",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -77,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759136701565</updated>
       <workItem from="1759136703123" duration="5000" />
-      <workItem from="1759258724957" duration="5355000" />
+      <workItem from="1759258724957" duration="6670000" />
     </task>
     <task id="LOCAL-00001" summary="Created Looped Calc App with &quot;add&quot; feature">
       <option name="closed" value="true" />
@@ -87,7 +88,31 @@
       <option name="project" value="LOCAL" />
       <updated>1759336818347</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created subtract feature">
+      <option name="closed" value="true" />
+      <created>1759337230173</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759337230173</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created multiply feature">
+      <option name="closed" value="true" />
+      <created>1759337393462</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759337393462</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created divide feature">
+      <option name="closed" value="true" />
+      <created>1759337527308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759337527308</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +131,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Looped Calc App with &quot;add&quot; feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Looped Calc App with &quot;add&quot; feature" />
+    <MESSAGE value="Created subtract feature" />
+    <MESSAGE value="Created multiply feature" />
+    <MESSAGE value="Created divide feature" />
+    <MESSAGE value="Created exit for loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created exit for loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
